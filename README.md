@@ -26,8 +26,8 @@ Vietnamese/English interface.
 - **Mở/lưu DWG** — cài [ODA File Converter](https://www.opendesign.com/guestfiles/oda_file_converter)
   (miễn phí, của Open Design Alliance; giấy phép của họ không cho phép
   chúng tôi đóng kèm). Cài xong trỏ đường dẫn trong KCAD:
-  *Công cụ ▸ Cài đặt ODA File Converter…* File **DXF mở được ngay**,
-  không cần bước này.
+  *Tệp ▸ Cài đặt ODA File Converter…* (gần cuối menu **Tệp**, dưới *Bảng bút in*).
+  File **DXF mở được ngay**, không cần bước này.
 - **Font SHX** (chữ kỹ thuật kiểu CAD, gồm font Việt vnsimli/vntimeh…) —
   đây là tài sản của bên thứ ba nên không đóng kèm. Máy đã cài AutoCAD
   thì KCAD tự tìm thấy; nếu không, chép các file `.shx` bạn có bản quyền
